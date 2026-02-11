@@ -1,0 +1,19 @@
+:root {
+  --color-fundo: #0f0f14;
+  --color-cartao: #1a1a22;
+  --color-texto: #f1f1f1;
+
+  --color-degrade-1: #002c58;
+  --color-degrade-2: #2c8fda;
+
+  --color-input-bg: #14141b;
+  --color-input-border: #2a2a35;
+
+  --radius-small: 8px;
+  --radius-large: 20px;
+
+  --spacing: 16px;
+
+  --transition-speed: 0.3s;
+  --transition-ease: ease-in-out;
+}
